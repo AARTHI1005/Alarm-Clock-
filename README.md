@@ -1,15 +1,18 @@
 # ⏰ Python Alarm Clock
 
-A simple alarm clock built with Python using only standard libraries.
+A simple alarm clock program written in Python using the `time` module.
+
 
 ## Features
-- Set an alarm in HH:MM:SS format
-- Rings when the alarm time is reached
+- Set alarm in HH:MM format
+- Displays message when alarm time is reached
+- Beginner-friendly logic
 
 ## Usage
 ```bash
+Run the program using:
 python alarm_clock.py
 ```
 
 ## Compatibility
-- Works on Windows, macOS, and Linux (voice alert varies)
+- Works on Windows, macOS, and Linux 
